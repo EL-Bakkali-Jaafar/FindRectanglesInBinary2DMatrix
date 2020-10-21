@@ -25,4 +25,4 @@ As we can see the number of columns is 7 whereas the number of rows is 8.
 
 Afte execution, the output of the program will be as follows:<br>
  <img src="https://raw.githubusercontent.com/EL-Bakkali-Jaafar/FindRectanglesInBinary2DMatrix/main/pic1.png">
-  <img src="https://raw.githubusercontent.com/EL-Bakkali-Jaafar/FindRectanglesInBinary2DMatrix/main/pic2.png">
+  <img src="https://github.com/EL-Bakkali-Jaafar/FindRectanglesInBinary2DMatrix/blob/main/pic2.png">
