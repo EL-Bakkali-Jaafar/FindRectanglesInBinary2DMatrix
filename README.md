@@ -1,7 +1,7 @@
 # FindRectanglesInBinary2DMatrix
 a C++ program to find all rectangles containing binary sub-matrices with all 0s and return their areas, heights and widths.
 This C++ program uses Largest Rectangular Area In Histogram Algorithm and it is inspired from a python-3 version written by tommy carstensen ( https://stackoverflow.com/a/30418912).<br>
-The program print row, column indices of four corners points of each rectangle with all 0s detected in a sub-matrix. The 0s beloging to theses rectangles are showm in red color. <br>The First detected rectangle with id=0 is the largest one.
+The program print row, column indices of four corners points of each rectangle with all 0s detected in a sub-matrix.  The 0s belonging to theses rectangles are shown in red color. . <br>The First detected rectangle with id=0 is the largest one.
 
 To compile the program, only to do is to open new Linux terminal and put the following command:<br>
 g++ -O2  FindRectanglesInBinary2DMatrix.cc -o  FindRectanglesInBinary2DMatrix
