@@ -24,9 +24,5 @@ As we can see the number of columns is 7 whereas the number of rows is 8.
 ./FindRectanglesInBinary2DMatrix 2dbinary_matrix.txt  7<br>
 
 Afte execution, the output of the program will be as follows:<br>
-
-    <img src=" https://raw.githubusercontent.com/EL-Bakkali-Jaafar/FindRectanglesInBinary2DMatrix/main/pic1.png" />
-
-![alt text](https://raw.githubusercontent.com/EL-Bakkali-Jaafar/FindRectanglesInBinary2DMatrix/main/pic2.png
-?raw=true)
-
+ <img src="https://raw.githubusercontent.com/EL-Bakkali-Jaafar/FindRectanglesInBinary2DMatrix/main/pic1.png">
+  <img src="https://raw.githubusercontent.com/EL-Bakkali-Jaafar/FindRectanglesInBinary2DMatrix/main/pic2.png">
